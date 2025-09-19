@@ -37,7 +37,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Kirill-Rusakov/Simple-Blog-with-Comments.git
 cd blog-project
 ```
 
